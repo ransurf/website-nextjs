@@ -8,6 +8,11 @@ mailchimp.setConfig({
 // eslint-disable-next-line import/no-anonymous-default-export
 export default async (req, res) => {
   const { email } = req.body
+  const apikey = process.env.MAILCHIMP_API_KEY
+  console.log(typeof apikey)
+  console.log('apikey', apikey)
+  console.log('server', process.env.MAILCHIMP_API_SERVER)
+  console.log('email', email)
 
   if (!email) {
     return res.status(400).json({ error: 'Email is required' })

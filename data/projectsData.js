@@ -1,19 +1,23 @@
+//Project images must be 16/9
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'PharmaConnect',
+    description:
+      'A mobile web-app that allows online prescription fulfillment with locally registered pharmacies',
+    //img Src: link to image
+    href: 'https://devpost.com/software/pharmaconnect-zma8wt',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'OnlyProfs',
+    description:
+      'A social web-app that allows professors to upload lectures and assignments for students to view',
+    href: 'https://github.com/ASimpleFox/OnlyProfs',
+  },
+  {
+    title: 'Habitica Sync',
+    description:
+      'An Obsian MD plugin with 850+ downloads that integrates the task management app “Habitica” into Obsidian MD',
+    href: 'https://github.com/SuperChamp234/habitica-sync',
   },
 ]
 

@@ -1,16 +1,30 @@
 ---
-name: Tails Azimuth
+name: John Mavrick
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: QA Developer @
+company: Excelar Techhnologies
+twitter: https://twitter.com/johnmavrick_yt
 ---
+**Identity**
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+✨ A stereotypical INFJ ready to change the world
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+💼 QA Developer Intern at Excelar Technologies
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+🎓 First-Year Software Systems student at Simon Fraser University
+
+📚 Autodidactic polymath with books and other online mediums as fuel
+
+📹 YouTube content creator to share new things I learn and try out
+
+✏️ Writer to explore new ideas and provide value to others
+
+**Interests**
+
+🖥️ Web development, virtual reality, and tech startups
+
+💬 Philosophy, stoicism, productivity, and productivity
+
+
+
+

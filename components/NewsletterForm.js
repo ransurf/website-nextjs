@@ -2,7 +2,7 @@ import { useRef, useState } from 'react'
 
 import siteMetadata from '@/data/siteMetadata'
 
-const NewsletterForm = ({ title = 'Subscribe to the newsletter' }) => {
+const NewsletterForm = ({ title = 'Subscribe to my newsletter' }) => {
   const inputEl = useRef(null)
   const [error, setError] = useState(false)
   const [message, setMessage] = useState('')
@@ -10,7 +10,7 @@ const NewsletterForm = ({ title = 'Subscribe to the newsletter' }) => {
 
   const subscribe = async (e) => {
     e.preventDefault()
-
+    console.log(siteMetadata.newsletter.provider)
     const res = await fetch(`/api/${siteMetadata.newsletter.provider}`, {
       body: JSON.stringify({
         email: inputEl.current.value,
