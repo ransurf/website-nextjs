@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: "John Mavrick",
+  title: 'John Mavrick',
   author: 'John Mavrick',
   headerTitle: 'John Mavrick',
   description: 'I hope you find value in my writing :)',

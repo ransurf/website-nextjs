@@ -5,6 +5,7 @@ occupation: QA Developer @
 company: Excelar Techhnologies
 twitter: https://twitter.com/johnmavrick_yt
 ---
+
 **Identity**
 
 ✨ A stereotypical INFJ ready to change the world
@@ -24,7 +25,3 @@ twitter: https://twitter.com/johnmavrick_yt
 🖥️ Web development, virtual reality, and tech startups
 
 💬 Philosophy, stoicism, productivity, and productivity
-
-
-
-

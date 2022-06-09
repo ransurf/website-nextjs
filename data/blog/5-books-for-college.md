@@ -6,28 +6,26 @@ draft: false
 summary: A must-read if you’re needing to improve your study habits or are working towards a better school-life balance.
 ---
 
-After graduating from high school, I was rather anxious about starting university; on top of moving away from my parents into a new province, **I was unsure of how difficult and different post-secondary education would be.** 
+After graduating from high school, I was rather anxious about starting university; on top of moving away from my parents into a new province, **I was unsure of how difficult and different post-secondary education would be.**
 
 As a result, I began preparing by reading up on books, and after reading over 60, there are a specific few that helped me tremendously during my first year of university. I’ll be sharing the key takeaways that resonated with me for each book, **but I’d still highly recommend you take the time to read them for yourself.**
 
-By providing **instantly actionable tips or paradigm-shifting mindsets**, I guarantee these books can help elevate your **studying habits** or cultivate a healthier **school-life balance,** even if ****you’re in high school or are about to graduate**.** Speaking of mindsets...
+By providing **instantly actionable tips or paradigm-shifting mindsets**, I guarantee these books can help elevate your **studying habits** or cultivate a healthier **school-life balance,** even if \***\*you’re in high school or are about to graduate**.\*\* Speaking of mindsets...
 
 ### 1 - Mindset by Carol Dweck
 
- 
-
 If you’re a grades-obsessed perfectionist like me, then Mindset by Carol Dweck is quite the wake-up call to **not let such numbers impact your self-worth and mood**.
 
-The book compares and contrasts the two main learning mindsets you can have: a fixed or growth mindset. 
+The book compares and contrasts the two main learning mindsets you can have: a fixed or growth mindset.
 
 - When we have a **fixed mindset**, we believe our intelligence is fixed. Based on our intelligence, we are either qualified or non-qualified to do things; if I believe I am bad at writing essays, then that belief is a permanent truth I cannot change.
 - On the other hand, a **growth mindset** reframes our lack of writing skills as a learnable skill that we can improve through time and effort. We believe that our intelligence can change over time.
 
-So, why is this important for school? 
+So, why is this important for school?
 
 **A growth mindset frees us from our self-limiting beliefs to positively reframe the obstacles we face while learning.**
 
-Upon receiving a poor grade, we may label ourselves as incompetent, and thus start to lose hope of doing well in the course. This is the curse of a fixed mindset; **we let outcomes dictate our self-esteem, which then spirals into permanent beliefs about our intelligence.** 
+Upon receiving a poor grade, we may label ourselves as incompetent, and thus start to lose hope of doing well in the course. This is the curse of a fixed mindset; **we let outcomes dictate our self-esteem, which then spirals into permanent beliefs about our intelligence.**
 
 Fortunately, we can adopt a growth mindset to view these events from a **growth-oriented lens**. Sure we may have done worse than expected, **but we know we can improve our intelligence**. Now we can look past the initial feelings of disappointment, and realize that we can use these mistakes as signals on where to spend time and refine our understanding.
 
@@ -68,23 +66,23 @@ Although this system is intended as a structure for the whole day, its principle
 - By **energizing**, we maintain our physical and mental energy to continue our laser sessions
 - By **reflecting**, we can gauge the effectiveness of the day’s applied processes and decisions to improve tomorrow’s efforts
 
-I found myself already following a similar daily process prior to reading, but nonetheless, value can still be found in their countless actionable steps and principles. 
+I found myself already following a similar daily process prior to reading, but nonetheless, value can still be found in their countless actionable steps and principles.
 
 For example, here are some tidbits from the book:
 
 - When highlighting…
-    - Make sure the highlight is something you genuinely want to do; find something that you find intrinsically satisfying
-    - Have a non-school related highlight, and put it at the end of the day to use as an incentive to make guilt-free time for it
+  - Make sure the highlight is something you genuinely want to do; find something that you find intrinsically satisfying
+  - Have a non-school related highlight, and put it at the end of the day to use as an incentive to make guilt-free time for it
 - When lasering…
-    - Remember that quick phone checks are actually longer timesinks since it takes time to readjust our focus, so it’s best to leave them in a different room
-    - Use soundtracks and other environmental cues for certain processes and moods; for example, I have a specific light configuration and Spotify playlist for tasks like reading and doing math questions
-    - Instead of getting side-tracked by your thoughts, simply write them down somewhere and attend to them after your focused sessions
-    - Take caffeine 2 and 8 hours after waking up to counteract the most tiring parts of the day
-        - Alternatively, you can also consistently consume tea for a more consistent intake
+  - Remember that quick phone checks are actually longer timesinks since it takes time to readjust our focus, so it’s best to leave them in a different room
+  - Use soundtracks and other environmental cues for certain processes and moods; for example, I have a specific light configuration and Spotify playlist for tasks like reading and doing math questions
+  - Instead of getting side-tracked by your thoughts, simply write them down somewhere and attend to them after your focused sessions
+  - Take caffeine 2 and 8 hours after waking up to counteract the most tiring parts of the day
+    - Alternatively, you can also consistently consume tea for a more consistent intake
 - When reflecting…
-    - Note today’s highlight; did you achieve it? How do you feel?
-    - Take note of any major distractions or obstacles and prepare for when they happen again in the future
-    - Try to employ different productivity tactics during your laser sessions, then gauge their effectiveness here to see whether you should continue them
+  - Note today’s highlight; did you achieve it? How do you feel?
+  - Take note of any major distractions or obstacles and prepare for when they happen again in the future
+  - Try to employ different productivity tactics during your laser sessions, then gauge their effectiveness here to see whether you should continue them
 
 ### 4 - How to Win At College by Cal Newport
 
@@ -93,25 +91,22 @@ I read this book before I started university to face the uncertainty of the new 
 Although the book does mainly consist of insightful study and learning advice, if there was one thing I’d embodied the most, it was this:
 
 > College only becomes overwhelming when you let it consume your entire life
-> 
 
 During my first semester, I had taken more than the recommended course load and had devoted the majority of my waking hours to schoolwork and studying. I did receive a high GPA because of my efforts, but looking back, **enduring such mind-numbing review sessions was not worth it.**
 
-Consequently, during my second semester, I committed to doing the bare minimum to focus on other areas of my life:  creating YouTube videos, applying for internships, and reading. Sure my GPA might have been lower, **but I was also able to grow a passive income stream, land an internship for the upcoming semester, and experience more enjoyment each day.**
+Consequently, during my second semester, I committed to doing the bare minimum to focus on other areas of my life: creating YouTube videos, applying for internships, and reading. Sure my GPA might have been lower, **but I was also able to grow a passive income stream, land an internship for the upcoming semester, and experience more enjoyment each day.**
 
 Once you also find some activities you want to pursue, question their impact on your development:
 
 > Take a moment to inventory the various pursuits you have going on. How many of these goals would make you a standout if accomplished? How many would cause a professor to mention you, unprompted, at a faculty meeting? How many would lead to your name being brought up for award nominations? If you answered “none,” then it's time to inflate your ambition
-> 
 
 Everyone who graduates from a university will have a degree; **when being released into the working world, you need to somehow stand out to the employer from all other applicants.** Aside from general advice of joining extra-curricular or volunteering, elevate your ambition one level higher and seek opportunities to make your growth in school one of a kind.
 
-In my case, it was by getting an internship as soon as possible; most students apply during their second year or later, but I built a solid resume to get accepted during my first year. 
+In my case, it was by getting an internship as soon as possible; most students apply during their second year or later, but I built a solid resume to get accepted during my first year.
 
 Alternatively, you can also focus on your network by forming your own clubs or seeking out mentorship from professors:
 
 > Make him or her a mentor, someone who is aware of your overall academic plan, your life goals, your concerns, and your triumphs.
-> 
 
 **Don’t think you’re a burden for trying to develop a closer relationship; they may be bored out of their minds waiting for a passionate student like you to eagerly learn.**
 

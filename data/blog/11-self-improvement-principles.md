@@ -5,6 +5,7 @@ tags: ['books', 'self improvement']
 draft: false
 summary: Learn the fundamentals from books like Atomic Habits or Think and Grow Rich.
 ---
+
 Self-improvement books have the power to single-handedly change a person’s outlook and purpose in life, but sometimes, people don’t have the money, motivation, or time to sit down and enlighten themselves on what these books have to offer.
 
 If you’ve been curious as to what invaluable knowledge these self-improvement books contain, then look no further. [After reading 60 books](https://www.goodreads.com/user/show/136863830-john-reyes), I’ve noticed 11 recurring pieces of advice that can help you on your journey.
@@ -15,7 +16,7 @@ The first piece of advice, which is arguably the most important, is to **apply t
 
 If you want to truly seek change in your life, simply reading about these different ideas and tips isn’t enough; you can read hundreds of books about self-improvement and productivity, but if you don’t apply any of the information you learned to your own life, all of it will go to waste.
 
-*“But what can I apply if I haven’t read any books?”*
+_“But what can I apply if I haven’t read any books?”_
 
 I mean, there are still 10 other ideas to go through ;)
 
@@ -87,7 +88,7 @@ By knowing what is in and out of our control, we can put our effort solely into 
 
 The effort you put into a resume for your dream job is within your control, but the choice of the employer to hire you is out of the question. Instead of worrying about the anticipated outcome, just be realistic and appreciate the work you put in to stack the odds in your favour, and as noted in idea 6, learn from your failures.
 
-*“But I can’t do that, I’m not good enough”…*
+_“But I can’t do that, I’m not good enough”…_
 
 ### 9. Detoxify your mindset
 
@@ -117,7 +118,7 @@ Adding on to the previous idea, we can devote our lives to constantly learning a
 
 By spending some time each day reading a book or learning a new skill, you can learn more about yourself and the world around you each and every day. I personally find such a concept truly mesmerizing, and by committing to reading an hour every day, I hope to live a life full of achievements and knowledge.
 
-The  insight within the books I’ve read had an indescribably profound impact on my outlook on life; I’ve reached peak levels of confidence and determination to pursue my goals, and this desire will only further grow as I continue my path to self-enlightenment.
+The insight within the books I’ve read had an indescribably profound impact on my outlook on life; I’ve reached peak levels of confidence and determination to pursue my goals, and this desire will only further grow as I continue my path to self-enlightenment.
 
 By adopting a learning mindset, I’ve primed myself to live the best life I possibly can, and I wholeheartedly encourage you to also do the same.
 
