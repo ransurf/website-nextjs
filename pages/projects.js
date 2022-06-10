@@ -22,6 +22,8 @@ export default function Projects() {
               <Card
                 key={d.title}
                 title={d.title}
+                date={d.date}
+                madeWith={d.madeWith}
                 description={d.description}
                 imgSrc={d.imgSrc}
                 href={d.href}
