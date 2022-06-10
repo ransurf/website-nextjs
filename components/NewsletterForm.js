@@ -10,10 +10,17 @@ const NewsletterForm = ({ title = 'Subscribe to my newsletter' }) => {
 
   const subscribe = async (e) => {
     e.preventDefault()
-    console.log(siteMetadata.newsletter.provider)
+    //prevent emails with + extension
+    let email = inputEl.current.value
+    if (email.includes('+')) {
+      let atSymbolLocation = email.indexOf('@')
+      email = email.slice(0, email.indexOf('+')) + email.slice(atSymbolLocation)
+      console.log('email truncated to ', email)
+    }
+
     const res = await fetch(`/api/${siteMetadata.newsletter.provider}`, {
       body: JSON.stringify({
-        email: inputEl.current.value,
+        email: email,
       }),
       headers: {
         'Content-Type': 'application/json',
