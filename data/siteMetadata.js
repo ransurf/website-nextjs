@@ -5,7 +5,7 @@ const siteMetadata = {
   description: 'I hope you find value in my writing :)',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://johnmavrick.tech',
   siteRepo: '',
   // siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
