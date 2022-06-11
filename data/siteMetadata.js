@@ -2,8 +2,19 @@ const siteMetadata = {
   title: 'John Mavrick',
   author: 'John Mavrick',
   headerTitle: 'John Mavrick',
-  description:
-    'A curious and ambitious INFJ polymath wanting to share their thoughts and learnings to positively impact the lives of others.',
+  description: `
+    A curious and ambitious INFJ polymath using their limited time on this earth to appreciate and explore the depths of life.
+  `,
+  indexLines: {
+    main: `In a world of mindless media consumption, I strive to:`,
+    points: [
+      `create meaningful content to encourage self-actualization`,
+
+      `discuss fundamental ideas and actions for learning and improvement`,
+
+      `share my inner thoughts and vulnerable experiences to inspire self-reflection`,
+    ],
+  },
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://johnmavrick.tech',

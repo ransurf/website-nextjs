@@ -25,12 +25,20 @@ export default function Home({ posts }) {
               Hi, I’m{' '}
               <span className="text-primaryLight-500 dark:text-primary-300">John Mavrick</span>
             </h2>
-            <h2 className="prose text-lg text-gray-600 dark:text-gray-400">
+            <h2 className="text-lg text-gray-600 dark:text-gray-400">
               {`${siteMetadata.description}`}
+              <div className="pt-4">
+                {siteMetadata.indexLines.main}
+                {siteMetadata.indexLines.points.map((line) => (
+                  <li key={line} className="pl-2">
+                    <span className="-ml-2">{line}</span>
+                  </li>
+                ))}
+              </div>
             </h2>
           </div>
           <div className="mx-2 my-12 flex w-96 items-center justify-center">
-            <BlogNewsletterForm title="Stay updated and receive refreshing insights straight to your email 👇" />
+            <BlogNewsletterForm title="Receive refreshing insights and resources straight to your email 👇" />
           </div>
         </div>
         <h2 className="flex pb-6 text-2xl font-extrabold tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl md:text-5xl">
