@@ -2,7 +2,11 @@ import { useRef, useState } from 'react'
 
 import siteMetadata from '@/data/siteMetadata'
 
-const NewsletterForm = ({ title = 'Subscribe to my newsletter' }) => {
+const NewsletterForm = ({
+  title = 'Subscribe to my newsletter',
+  placeholder = 'Enter your email',
+  buttonText = 'Subscribe',
+}) => {
   const inputEl = useRef(null)
   const [error, setError] = useState(false)
   const [message, setMessage] = useState('')
@@ -42,9 +46,9 @@ const NewsletterForm = ({ title = 'Subscribe to my newsletter' }) => {
   }
 
   return (
-    <div>
-      <div className="pb-1 text-lg font-semibold text-gray-800 dark:text-gray-100">{title}</div>
-      <form className="flex flex-col sm:flex-row" onSubmit={subscribe}>
+    <div className="flex flex-col justify-center">
+      <div className="pb-2 text-lg font-semibold text-gray-800 dark:text-gray-100">{title}</div>
+      <form className="flex flex-col justify-center sm:flex-row" onSubmit={subscribe}>
         <div>
           <label className="sr-only" htmlFor="email-input">
             Email address
@@ -54,22 +58,22 @@ const NewsletterForm = ({ title = 'Subscribe to my newsletter' }) => {
             className="w-72 rounded-md px-4 focus:border-transparent focus:outline-none focus:ring-2 focus:ring-primary-600 dark:bg-black"
             id="email-input"
             name="email"
-            placeholder={subscribed ? "You're subscribed !  🎉" : 'Enter your email'}
+            placeholder={subscribed ? "You're subscribed !  🎉" : `${placeholder}`}
             ref={inputEl}
             required
             type="email"
             disabled={subscribed}
           />
         </div>
-        <div className="mt-2 flex w-full rounded-md shadow-sm sm:mt-0 sm:ml-3">
+        <div className="mt-2 flex rounded-md shadow-sm sm:mt-0 sm:ml-3">
           <button
-            className={`w-full rounded-md bg-primary-500 py-2 px-4 font-medium text-white sm:py-0 ${
+            className={`w-50% dark:text-primary2- rounded-md bg-primaryLight-500 py-2 px-3 font-medium text-white dark:bg-primary-300 sm:py-0 ${
               subscribed ? 'cursor-default' : 'hover:bg-primary-700 dark:hover:bg-primary-400'
             } focus:outline-none focus:ring-2 focus:ring-primary-600 focus:ring-offset-2 dark:ring-offset-black`}
             type="submit"
             disabled={subscribed}
           >
-            {subscribed ? 'Thank you!' : 'Sign up'}
+            {subscribed ? 'Thank you!' : `${buttonText}`}
           </button>
         </div>
       </form>
@@ -84,7 +88,7 @@ export default NewsletterForm
 
 export const BlogNewsletterForm = ({ title }) => (
   <div className="flex items-center justify-center">
-    <div className="bg-gray-100 p-6 dark:bg-gray-800 sm:px-14 sm:py-8">
+    <div className="rounded-2xl bg-gray-100 px-14 py-12 dark:bg-gray-800 sm:py-8 md:px-10">
       <NewsletterForm title={title} />
     </div>
   </div>

@@ -30,6 +30,7 @@ module.exports = {
       },
       colors: {
         primary: colors.teal,
+        primaryLight: colors.sky,
         gray: colors.neutral,
       },
       typography: (theme) => ({
@@ -37,11 +38,11 @@ module.exports = {
           css: {
             color: theme('colors.gray.700'),
             a: {
-              color: theme('colors.primary.500'),
+              color: theme('colors.primaryLight.500'),
               '&:hover': {
-                color: `${theme('colors.primary.600')} !important`,
+                color: `${theme('colors.primaryLight.400')} !important`,
               },
-              code: { color: theme('colors.primary.400') },
+              code: { color: theme('colors.primaryLight.400') },
             },
             h1: {
               fontWeight: '700',
@@ -105,11 +106,11 @@ module.exports = {
           css: {
             color: theme('colors.gray.300'),
             a: {
-              color: theme('colors.primary.500'),
+              color: theme('colors.primary.200'),
               '&:hover': {
-                color: `${theme('colors.primary.400')} !important`,
+                color: `${theme('colors.primary.300')} !important`,
               },
-              code: { color: theme('colors.primary.400') },
+              code: { color: theme('colors.primary.300') },
             },
             h1: {
               fontWeight: '700',

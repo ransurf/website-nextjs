@@ -158,7 +158,7 @@ In summary:
 - **Stay ambitious** and make your education journey **unique**
 - Remember how to take notes and study properly for both **technical and non-technical courses**
 
-To read summaries on some of these books and thousands more, try the Shortform app for free using my affiliate link (which also provides a 20% discount!) at https://shortform.com/johnmavrick/
+To read summaries on some of these books and thousands more, try the Shortform app for free using my [affiliate link](https://shortform.com/johnmavrick/) (which also provides a 20% discount!)
 
 I use it as a **healthier alternative to mindlessly scrolling** during random free time throughout the day and before going to bed, as I get to learn more useful things like the concepts I shared in this post :)
 

@@ -2,7 +2,8 @@ const siteMetadata = {
   title: 'John Mavrick',
   author: 'John Mavrick',
   headerTitle: 'John Mavrick',
-  description: 'I hope you find value in my writing :)',
+  description:
+    'A curious and ambitious INFJ polymath wanting to share their thoughts and learnings to positively impact the lives of others.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://johnmavrick.tech',
