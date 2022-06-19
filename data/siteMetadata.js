@@ -2,9 +2,10 @@ const siteMetadata = {
   title: 'John Mavrick',
   author: 'John Mavrick',
   headerTitle: 'John Mavrick',
-  description: `
-    A curious and ambitious INFJ polymath using their limited time on this earth to appreciate and explore the depths of life.
+  description: [
+    `Your values are heavily influenced by your environment, whether it be your social circle, role models, or content consumed.
   `,
+  ],
   indexLines: {
     main: `In a world of mindless media consumption, I strive to:`,
     points: [

@@ -8,13 +8,13 @@ twitter: https://twitter.com/johnmavrick_yt
 
 **Identity**
 
-✨ A stereotypical INFJ ready to change the world
+✨ A curious and ambitious INFJ ready to change the world
 
 💼 QA Developer Intern at Excelar Technologies
 
 🎓 First-Year Software Systems student at Simon Fraser University
 
-📚 Autodidactic polymath with books and other online mediums as fuel
+📚 Autodidactic polymath consuming books and other online mediums as fuel
 
 📹 YouTube content creator to share new things I learn and try out
 
@@ -22,6 +22,6 @@ twitter: https://twitter.com/johnmavrick_yt
 
 **Interests**
 
-🖥️ Web development, virtual reality, and tech startups
+🖥️ Web development and tech startups (SaaS)
 
-💬 Philosophy, stoicism, productivity, and productivity
+💬 Philosophy, stoicism, psychology, personal knowledge management, lifestyle

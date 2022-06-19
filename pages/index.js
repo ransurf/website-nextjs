@@ -26,7 +26,9 @@ export default function Home({ posts }) {
               <span className="text-primaryLight-500 dark:text-primary-300">John Mavrick</span>
             </h2>
             <h2 className="text-lg text-gray-600 dark:text-gray-400">
-              {`${siteMetadata.description}`}
+              {siteMetadata.description.map((line, index) => (
+                <p key={index}>{line}</p>
+              ))}
               <div className="pt-4">
                 {siteMetadata.indexLines.main}
                 {siteMetadata.indexLines.points.map((line) => (
