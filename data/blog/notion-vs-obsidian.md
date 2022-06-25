@@ -1,7 +1,7 @@
 ---
 title: Should you leave Notion for Obsidian MD?
 
-date: '2022-06-18'
+date: '2022-06-23'
 
 tags: ['obsidian', 'notion', 'productivity', 'youtube']
 
