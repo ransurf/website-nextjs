@@ -47,9 +47,11 @@ const NewsletterForm = ({
 
   return (
     <div className="flex flex-col justify-center">
-      <div className="pb-2 text-lg font-semibold text-gray-800 dark:text-gray-100">{title}</div>
+      <div className=" pb-2 text-center text-lg font-semibold text-gray-800 dark:text-gray-100">
+        {title}
+      </div>
       <form className="flex flex-col justify-center sm:flex-row" onSubmit={subscribe}>
-        <div>
+        {/* <div>
           <label className="sr-only" htmlFor="email-input">
             Email address
           </label>
@@ -64,10 +66,10 @@ const NewsletterForm = ({
             type="email"
             disabled={subscribed}
           />
-        </div>
-        <div className="mt-2 flex rounded-md shadow-sm sm:mt-0 sm:ml-3">
+        </div> */}
+        <div className="mt-2 flex justify-center rounded-md shadow-sm sm:mt-0">
           <button
-            className={`w-50% dark:text-primary2- rounded-md bg-primaryLight-500 py-2 px-3 font-medium text-white dark:bg-primary-300 sm:py-0 ${
+            className={`w-50% dark:text-primary2- rounded-md bg-primaryLight-500 py-2 px-4 font-medium text-white dark:bg-primary-300 ${
               subscribed ? 'cursor-default' : 'hover:bg-primary-700 dark:hover:bg-primary-400'
             } focus:outline-none focus:ring-2 focus:ring-primary-600 focus:ring-offset-2 dark:ring-offset-black`}
             type="submit"

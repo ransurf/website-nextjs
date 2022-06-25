@@ -18,33 +18,30 @@ export default function Home({ posts }) {
   return (
     <>
       <PageSEO title={siteMetadata.title} description={siteMetadata.description} />
-      <div>
+      <div className="pt-8">
+        <h2 className="pb-6 text-3xl font-extrabold leading-8 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
+          Hi, I’m <span className="text-primaryLight-500 dark:text-primary-300">John Mavrick</span>
+        </h2>
         <div className="my-6 flex flex-col items-center gap-x-12 xl:mb-12 xl:flex-row">
-          <div className="pt-6">
-            <h2 className="pb-6 text-3xl font-extrabold leading-8 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
-              Hi, I’m{' '}
-              <span className="text-primaryLight-500 dark:text-primary-300">John Mavrick</span>
-            </h2>
-            <h2 className="text-lg text-gray-600 dark:text-gray-400">
-              {siteMetadata.description.map((line, index) => (
-                <p key={index}>{line}</p>
+          <h2 className="text-lg text-gray-600 dark:text-gray-400">
+            {siteMetadata.description.map((line, index) => (
+              <p key={index}>{line}</p>
+            ))}
+            <div className="pt-4">
+              {siteMetadata.indexLines.main}
+              {siteMetadata.indexLines.points.map((line) => (
+                <li key={line} className="pl-2">
+                  <span className="-ml-2">{line}</span>
+                </li>
               ))}
-              <div className="pt-4">
-                {siteMetadata.indexLines.main}
-                {siteMetadata.indexLines.points.map((line) => (
-                  <li key={line} className="pl-2">
-                    <span className="-ml-2">{line}</span>
-                  </li>
-                ))}
-              </div>
-            </h2>
-          </div>
-          <div className="mx-2 my-12 flex w-96 items-center justify-center">
-            <BlogNewsletterForm title="Receive refreshing insights and resources straight to your email 👇" />
+            </div>
+          </h2>
+          <div className="mx-2 my-12 flex w-full items-center justify-center">
+            <BlogNewsletterForm title="Sign up for Weekly Wonderings - resonating links, ideas, and practices extracted from my week to supercharge your upcoming one 👇" />
           </div>
         </div>
         <h2 className="flex pb-6 text-2xl font-extrabold tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl md:text-5xl">
-          Latest
+          Latest Thoughts
         </h2>
         <div>
           <ul className="divide-y divide-gray-200 dark:divide-gray-700">
