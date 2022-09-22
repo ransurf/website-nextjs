@@ -7,8 +7,6 @@ summary: How an English teacher opened my eyes
 
 During one of my elective courses in university, we held a seminar exploring the role of teachers in education.
 
-Does self-learning prove their lack of worth?
-
 As my fellow classmates Kai and Nicole mentioned polarizing experiences with how their teachers affected their interest in a subject, I couldn't help but reflect on the influence my twelfth-grade English teacher had on my learning.
 
 His humorous yet explorative seminars were engaging and informative, helping me stay immersed during a rather discouraging time of hybrid learning. However, although he taught the English curriculum quite well, there was something of greater personal importance taught in his class seminars.

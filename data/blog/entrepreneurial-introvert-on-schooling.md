@@ -5,8 +5,6 @@ tags: ['entrepreneurship', 'reflection', 'school']
 summary: Why not pull a Zuck and drop out?
 ---
 
-An Entrepreneurial Introvert’s Criticism on Schooling
-
 As of recently, I've experienced great uncertainty regarding my future career and the path to get there. With my current life mission framed towards positively impacting society through creations that exceed my own time on this earth, I found entrepreneurship to be a potential path to follow.
 
 However, as I began to reflect on my current situation, I questioned whether going to university would adequately satisfy my entrepreneurial desires.
