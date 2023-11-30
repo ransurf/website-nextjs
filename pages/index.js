@@ -5,6 +5,7 @@ import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
 import { getAllFilesFrontMatter } from '@/lib/mdx'
 import formatDate from '@/lib/utils/formatDate'
+import { useEffect } from 'react'
 
 const MAX_DISPLAY = 5
 
@@ -15,6 +16,10 @@ export async function getStaticProps() {
 }
 
 export default function Home({ posts }) {
+  useEffect(() => {
+    window.location.href = 'https://publish.obsidian.md/johnmavrick'
+  }, [])
+
   return (
     <>
       <PageSEO title={siteMetadata.title} description={siteMetadata.description} />
